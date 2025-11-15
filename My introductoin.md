@@ -22,7 +22,7 @@ I am currently a first-year Computer Science student, focusing on AI, data analy
 
 ## Contact Information
 - **Email**: [xiaofuyoujing@gmail.com](mailto:xiaofuyoujing@gmail.com)
-- **Phone**: 0147635826
+- **Phone**: 014-763-5826
 
 ## Social Media
 - **GitHub**: [1017Kosuke](https://github.com/1017Kosuke)
