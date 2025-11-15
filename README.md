@@ -1,8 +1,8 @@
-ここでは３つのおおまかな分類をする
-1. 本から読んだものを活用し再現する
-2.  AI関連のモデル
-3. 競技プログラミングの解法を記録
-(環境と言語は以下の通り）
-1. C言語　アセンブラ言語 (Ubuntu wsl)
-2. Python (Google Colab)
-3. C++
+## Branch Overview
+> **Note:** The `main` branch is always up-to-date.
+
+1. 📚 **book** – Notes and learnings from books and reference materials.  
+2. 🤖 **ai_model** – All work related to AI model projects.  
+3. 🏆 **event** – Hackathon and team development projects.  
+4. 🌐 **recursion** – Learnings and experiments from Recursion.io.  
+5. 💻 **cp** – History and practice of competitive programming.
